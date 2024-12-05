@@ -749,14 +749,11 @@ section,
   padding: 20px 40px;
   max-width: 90%;
   transition: 0.3s;
-  opacity: 0.5;
+  opacity: 1;
   filter: grayscale(100);
+  filter: none;
 }
 
-.clients .client-logo img:hover {
-  filter: none;
-  opacity: 1;
-}
 
 @media (max-width: 640px) {
   .clients .client-logo img {

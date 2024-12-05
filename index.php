@@ -9,8 +9,8 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/stm-removebg-preview.png" rel="icon">
+  <link href="assets/img/stm-removebg-preview.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -58,7 +58,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="login.html">Login</a>
+      <a class="btn-getstarted" href="login.php">Login</a>
 
     </div>
   </header>
@@ -74,7 +74,7 @@
             <h1>Pendataan Siswa Peminatan Lomba</h1>
             <p>SMK NEGERI 3 KOTA GORONTALO</p>
             <div class="d-flex">
-              <a href="login.html" class="btn-get-started">Login</a>
+              <a href="login.php" class="btn-get-started">Login</a>
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img">
@@ -135,7 +135,7 @@
           <div class="col-lg-5 col-md-7" >
             <div class="service-item position-relative">
               <div class="img">
-                <img src="assets/img/clients/LKS1.png" class="img-fluid" alt="">
+                <img src="assets/img/clients/smklks.png" class="img-fluid" alt="">
               </div>
             </div>
         </div>
@@ -157,164 +157,164 @@
 
         <div class="row gy-4">
 
-          <div class="col-lg-6 col-md" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-lg-4 col-md" data-aos="zoom-in" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-1.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Desain Pemodelan dan Infromasi Bangunan</h3>
                 </a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-1.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Desain dan Teknik Furnitur</h3>
                 </a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-2.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Geomatika</h3>
                 </a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-2.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Rekayasa Perangkat Lunak</h3>
                 </a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="400">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-3.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Audio Video</h3>
                 </a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="400">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-3.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Instalasi Tenaga Listrik</h3>
                 </a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-4.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Komputer dan Jaringan</h3>
                 </a>
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="service-details.php" class="stretched-link"></a>
               </div>
             </div>
           </div><!-- End Service Item -->
           
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-4.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Kosnstruksi dan Perumahan</h3>
                 </a>
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="service-details.php" class="stretched-link"></a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-4.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Kendaraan Ringan</h3>
                 </a>
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="service-details.php" class="stretched-link"></a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-4.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Pengelasan</h3>
                 </a>
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="service-details.php" class="stretched-link"></a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-4.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Pemesinan</h3>
                 </a>
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="service-details.php" class="stretched-link"></a>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-4.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Teknik Sepeda Motor</h3>
                 </a>
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="service-details.php" class="stretched-link"></a>
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -529,7 +529,7 @@
           </div><!-- End Google Maps -->
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="400">
+            <form action="contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="400">
               <div class="row gy-4">
 
                 <div class="col-md-6">

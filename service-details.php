@@ -71,7 +71,7 @@
       <div class="container">
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="current">Detail Lomba</li>
           </ol>
         </nav>
@@ -103,15 +103,13 @@
 
         <div class="row gy-4">
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="200" >
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200" >
             <div class="service-item position-relative">
               <div class="img">
                 <img src="assets/img/services-1.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
                   <h3>Elektronika (Electronics)</h3>
-                </a>
                 <p>Deskripsi</p>
               </div>
             </div>
